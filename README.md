@@ -1,2 +1,6 @@
 # DICTIONARY-
 Phyton :ENGINEERING TERMS AND DEFINITION 
+
+VIDEO OF THE DATA TYPES GUIDE:
+
+https://youtube.com/shorts/_nvLNbDi0cI?si=MU8zPgP_zuy9CAwl
